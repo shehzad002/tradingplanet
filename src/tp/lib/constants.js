@@ -27,16 +27,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   tp: {
-    56: '0x2c4a33373FEaa97b9D75bD78Dfd9919aD4dAe6Da',
+    56: '0xEBa0ff7c17a55d0A87941576ffF77466378c9D50',
   },
   masterChef: {
-    56: '0x7Aad99a353c95C4d427530f64f7fDe2A185A72Fd',
+    56: '0x4e11cD2c57Ed0A310Ad6D81A540669972d75E393',
   },
   weth: {
     56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   xTp: {
-    56: '0x3d7783B68f0c1f335026E9e91Aa29a23B34F48B3'
+    56: '0x309e10bc5B991DCA1ea651Ed9A0cA6599d673011'
   }
 }
 
